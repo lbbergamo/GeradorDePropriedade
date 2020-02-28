@@ -1,0 +1,19 @@
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.exe.config
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.exe
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.pdb
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Form1.resources
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Properties.Resources.resources
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.exe
+C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.pdb
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csprojAssemblyReference.cache
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Form1.resources
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Properties.Resources.resources
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csproj.GenerateResource.cache
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csproj.CoreCompileInputs.cache
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.exe
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.pdb
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.exe.config
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.exe
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.pdb
