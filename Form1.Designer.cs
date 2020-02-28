@@ -30,7 +30,7 @@
         {
             this.tbNome = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnCopiar = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -52,14 +52,15 @@
             this.label2.Text = "Nome";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // button1
+            // btnCopiar
             // 
-            this.button1.Location = new System.Drawing.Point(46, 86);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 12;
-            this.button1.Text = "Copiar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnCopiar.Location = new System.Drawing.Point(46, 86);
+            this.btnCopiar.Name = "btnCopiar";
+            this.btnCopiar.Size = new System.Drawing.Size(75, 23);
+            this.btnCopiar.TabIndex = 12;
+            this.btnCopiar.Text = "Copiar";
+            this.btnCopiar.UseVisualStyleBackColor = true;
+            this.btnCopiar.Click += new System.EventHandler(this.Button1_Click);
             // 
             // button2
             // 
@@ -79,6 +80,7 @@
             this.button3.TabIndex = 14;
             this.button3.Text = "Limpar";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // Gerador
             // 
@@ -87,7 +89,7 @@
             this.ClientSize = new System.Drawing.Size(284, 149);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCopiar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.tbNome);
             this.Name = "Gerador";
@@ -101,7 +103,7 @@
 
         private System.Windows.Forms.TextBox tbNome;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnCopiar;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
     }

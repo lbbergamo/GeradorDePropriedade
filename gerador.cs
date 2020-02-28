@@ -9,10 +9,9 @@ namespace GeradorDePropriedade
 {
     class gerador
     {
-
-        static string getEset(string nome)
+        public static string getEset(string nome)
         {
-            string propriedade = "private String " + nome;
+            string propriedade = "private String " + nome + ";";
             string set = "public void set" + nome + "(string _" + nome + ") { " + nome + " = _" + nome + "; }";
             string get = "public String get" + nome + "() { return " + nome + ";}";
             // public void setB(string _b) { b = _b; }

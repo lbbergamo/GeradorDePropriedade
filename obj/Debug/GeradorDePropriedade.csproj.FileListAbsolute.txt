@@ -8,7 +8,6 @@ C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\Ge
 C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.exe
 C:\Users\unisanta\Desktop\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.pdb
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csprojAssemblyReference.cache
-F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Form1.resources
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Properties.Resources.resources
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csproj.GenerateResource.cache
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.csproj.CoreCompileInputs.cache
@@ -17,3 +16,4 @@ F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropr
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.exe.config
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.exe
 F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\bin\Debug\GeradorDePropriedade.pdb
+F:\sistemas de informacao\3 - Semestre\LINGUAGEM DE PROGRAMACAO 3\GeradorDePropriedade\GeradorDePropriedade\obj\Debug\GeradorDePropriedade.Gerador.resources
