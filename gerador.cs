@@ -14,26 +14,31 @@ namespace GeradorDePropriedade
             string propriedade = "private String " + nome + ";";
             string set = "public void set" + nome + "(string _" + nome + ") { " + nome + " = _" + nome + "; }";
             string get = "public String get" + nome + "() { return " + nome + ";}";
-            // public void setB(string _b) { b = _b; }
-            // public String getB() { return b; }
-            //private String b;
+
             return propriedade + "\n" + set + "\n" + get;
         }
 
         public static void geradorTxt(string nome)
         {
             StreamWriter x;
-          
-            //Colocando o caminho fisico e o nome do arquivo a ser criado
-            //finalizando com .txt
+
             string CaminhoNome = @"C:\\Users\\Public\\arq01.txt";
 
-            //utilizando o método para criar um arquivo texto
-            //e associando o caminho e nome ao metodo
             x = File.CreateText(CaminhoNome);
-            //Console.ReadKey();
-            x.Write(getEset(nome));
+
+            x.Write(nome);
             x.Close();
+            System.Diagnostics.Process.Start("explorer.exe", @"C:\Users\Public");
+        }
+
+        public static string lista(string[] nomes)
+        {
+            string codigoCompleto = "";
+            for (int i = 0; i < nomes.Length; i++)
+            {
+                codigoCompleto += getEset(nomes[i]) + "\n\n";
+            }
+            return codigoCompleto;
         }
     }
 }

@@ -28,24 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tbNome = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnCopiar = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.tbListaComposto = new System.Windows.Forms.RichTextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // tbNome
-            // 
-            this.tbNome.Location = new System.Drawing.Point(105, 36);
-            this.tbNome.Name = "tbNome";
-            this.tbNome.Size = new System.Drawing.Size(120, 20);
-            this.tbNome.TabIndex = 0;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(64, 39);
+            this.label2.Location = new System.Drawing.Point(51, 35);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 6;
@@ -54,27 +48,27 @@
             // 
             // btnCopiar
             // 
-            this.btnCopiar.Location = new System.Drawing.Point(46, 86);
+            this.btnCopiar.Location = new System.Drawing.Point(54, 162);
             this.btnCopiar.Name = "btnCopiar";
             this.btnCopiar.Size = new System.Drawing.Size(75, 23);
-            this.btnCopiar.TabIndex = 12;
+            this.btnCopiar.TabIndex = 3;
             this.btnCopiar.Text = "Copiar";
             this.btnCopiar.UseVisualStyleBackColor = true;
             this.btnCopiar.Click += new System.EventHandler(this.Button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(181, 86);
+            this.button2.Location = new System.Drawing.Point(247, 162);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 13;
-            this.button2.Text = "Gerar";
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Gerar TXT";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(118, 115);
+            this.button3.Location = new System.Drawing.Point(150, 162);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 14;
@@ -82,16 +76,36 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
+            // tbListaComposto
+            // 
+            this.tbListaComposto.Location = new System.Drawing.Point(92, 35);
+            this.tbListaComposto.Name = "tbListaComposto";
+            this.tbListaComposto.Size = new System.Drawing.Size(255, 96);
+            this.tbListaComposto.TabIndex = 1;
+            this.tbListaComposto.Text = "";
+            this.tbListaComposto.TextChanged += new System.EventHandler(this.TbListaComposto_TextChanged);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.DarkRed;
+            this.label1.Location = new System.Drawing.Point(51, 134);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(322, 13);
+            this.label1.TabIndex = 17;
+            this.label1.Text = "Utilize o ENTER ( pule de linha ) para utilizar mais de 1 propriedade";
+            // 
             // Gerador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 149);
+            this.ClientSize = new System.Drawing.Size(391, 201);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.tbListaComposto);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.btnCopiar);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.tbNome);
             this.Name = "Gerador";
             this.Text = "Gerador";
             this.ResumeLayout(false);
@@ -100,12 +114,12 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox tbNome;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnCopiar;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.RichTextBox tbListaComposto;
+        private System.Windows.Forms.Label label1;
     }
 }
 
