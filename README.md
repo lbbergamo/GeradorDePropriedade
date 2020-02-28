@@ -1,10 +1,5 @@
 # Gerador de Propriedades C#
 > Projeto proposto pelo Professor Mauricio Asenjo no dia 28 de Fevereiro de 2020. 
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 O projeto tem o foco de otimizar o tempo do desenvolver ao digitar as propriedades (get e set), ao digitar o nome da propriedade eles gera o codigo pronto para copiar e gera tambem o codigo em um arquivo txt.
 
 ## Arquivo TXT
