@@ -23,7 +23,7 @@ C:\\Users\\Public\\
 
 ## Meta
 
-Leandro Bergamo – [@leandro-bergamo](https://www.linkedin.com/in/...) – leandro.bergamo@hotmail.coms.
+Leandro Bergamo – [Linkedin](https://www.linkedin.com/in/leandro-bergamo) – leandro.bergamo@hotmail.coms.
 
 [https://github.com/lbbergamo](https://github.com/lbbergamo)
 
